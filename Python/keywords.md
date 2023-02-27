@@ -1,4 +1,5 @@
 and|as|assert|async|await
+---|---|---|---|---|---
 break|class|continue|def|del
 elif|else|except|False|finally
 for|from|global|if|import
