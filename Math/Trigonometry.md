@@ -5,9 +5,10 @@ a² + b² = c²
 √(s(s-a)(s-b)(s-c))
 
 **Area of Triangle**
+/x
 ½absin(C)
 
-**Identities**
+**Trigonometric Identities**<br />
 sin(-θ) = -sin(θ)
 cos(-θ) = cos(θ)
 tan(-θ) = -tan(θ)
