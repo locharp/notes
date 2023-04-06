@@ -1,11 +1,11 @@
 **Pythagorean Theorem**  
 a² + b² = c²
 
-**Area of Triangle**
-*Heron's Formula*  
-√(s(s-a)(s-b)(s-c))
-*Size-Angle-Size*  
-½ab*sin(C)
+**Heron's Formula**  
+area = √(s(s-a)(s-b)(s-c))
+
+**Size-Angle-Size**  
+area = ½ab*sin(C)
 
 **Trigonometric Identities**  
 sin(-θ) = -sin(θ)
