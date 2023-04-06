@@ -1,6 +1,9 @@
 **Pythagorean Theorem**
 a² + b² = c²
 
+**Heron's Formula**
+√(s(s-a)(s-b)(s-c))
+
 **Area of Triangle**
 ½absin(C)
 
