@@ -1,10 +1,10 @@
 **Pythagorean Theorem**  
 a² + b² = c²
 
-**Heron's Formula**  
+**Area of Triangle**
+*Heron's Formula*  
 √(s(s-a)(s-b)(s-c))
-
-**Area of Triangle**  
+*Size-Angle-Size*  
 ½ab*sin(C)
 
 **Trigonometric Identities**  
