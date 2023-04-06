@@ -5,7 +5,7 @@ a² + b² = c²
 √(s(s-a)(s-b)(s-c))
 
 **Area of Triangle**
-/x
+
 ½absin(C)
 
 **Trigonometric Identities**<br />
