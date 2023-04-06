@@ -1,13 +1,13 @@
 **Pythagorean Theorem**  
 a² + b² = c²
 
-**Heron's Formula**<br />
+**Heron's Formula**  
 √(s(s-a)(s-b)(s-c))
 
-**Area of Triangle**<br />
+**Area of Triangle**  
 ½ab*sin(C)
 
-**Trigonometric Identities**<br />
+**Trigonometric Identities**  
 sin(-θ) = -sin(θ)
 cos(-θ) = cos(θ)
 tan(-θ) = -tan(θ)
@@ -36,14 +36,11 @@ sin(½θ) = ±√(½(1 - cos(θ)))
 cos(½θ) = ±√(½(1 + cos(θ)))
 tan(½θ) = ±√((1 - cos(θ)) / (1 + cos(θ)))
 
-**Law of Sines**<br />
+**Law of Sines**  
 a / sin(A) = b / sin(B) = c / sin(C)
 
-**Law of Cosine**<br />
+**Law of Cosine**  
 c² = a² + b² - 2ab*cos(C)
 
-**Triangulation**<br />
+**Triangulation**  
 d = b*sin(A)sin(C) / sin(B)
-
-**Area of Triangle**<br />
-½absin(C)
