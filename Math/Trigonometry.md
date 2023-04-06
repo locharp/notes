@@ -1,7 +1,7 @@
-**Pythagorean Theorem**
+**Pythagorean Theorem** 
 a² + b² = c²
 
-**Heron's Formula**
+**Heron's Formula**<br />
 √(s(s-a)(s-b)(s-c))
 
 **Area of Triangle**
