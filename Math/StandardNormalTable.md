@@ -1,4 +1,4 @@
-Standard Normal Table (/ Unit Normal Table / Z Table)
+## Standard Normal Table (/ Unit Normal Table / Z Table)
 
 0.15%|2.35%|13.5%|34%|34%|13%|2.35%|0.15%
 
